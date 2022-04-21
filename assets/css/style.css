@@ -1,0 +1,83 @@
+
+body {
+    /* background-color: #a21232; */
+    background-image: url(../images/iStock-519080356.jpg);
+    background-image: url(../images/imageedit_1_5896335188.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 80%;
+
+}
+
+nav {
+    background-image: url(../images/imageedit_1_5896335188.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 80%;
+
+}
+
+h1{
+    font-family: 'Harry Potter', sans-serif;
+}
+
+
+#highscore-button{
+    background-color: #a21232 !important;
+}
+
+#start-button{
+    background-color: #f9b248 !important;
+}
+
+.button{
+    background-color: black !important;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+
+#start-button:hover::after{
+    content: url(../images/hp-removebg-preview_36.png);
+    display: block;
+    position: absolute;
+    z-index: 2000;
+    bottom: -3px;
+  }
+
+p{
+    color: #a21232;
+    font-weight: bold;
+    font-size: 20px;
+}
+#final{
+    color: #a21232;
+    font-weight: bold;
+    font-size: 20px;
+}
+.high-score{
+    color: #a21232;
+    font-weight: bold;
+    font-size: 20px;
+}
+#time{
+    color: #a21232;
+    font-weight: bold;
+    font-size: 25px;
+}
+label {
+    color:white;
+    font-size: 0px;
+}
+
+
+.high{
+    color:  #f9b248;
+    text-shadow: 2px 3px #a21232;
+}
+
+#submit-initials{
+    background-color: #a21232 !important;
+}
