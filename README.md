@@ -5,7 +5,7 @@ Harry Potter timed quiz that asks easy and mid difficulty questions.Each questio
 
 You have 90 seconds to answer all questions. Each question answered wrong will subtract 15 seconds from time left.High scores are saved on local storage.
 
-![alt-text] (https://github.com/geicibarham/Harry-Potter-Quiz/blob/main/assets/images/js-quiz.png)
+![alt-text](https://github.com/geicibarham/Harry-Potter-Quiz/blob/main/assets/images/js-quiz.png)
 
 ## Technologies
 
